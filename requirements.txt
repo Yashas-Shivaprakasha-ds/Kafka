@@ -1,0 +1,6 @@
+confluent-kafka[avro,json,protobuf]
+pyspark==3.2.1
+confluent_kafka
+pandas
+requests
+jsonschema
